@@ -1,0 +1,705 @@
+{
+  "https://www.apibakersfield.com/": {
+    "status_code": 200,
+    "title": "EnergyAPI - San Joaquin Valley Chapter - non-profit organization comprised of petroleum related professionals.",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "The Chairman\u2019s Corner",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 5,
+    "images_missing_alt": 2,
+    "approx_word_count": 491,
+    "content_length_bytes": 51246,
+    "response_time_ms": 1190.7
+  },
+  "https://www.apibakersfield.com/news-events/": {
+    "status_code": 200,
+    "title": "News &amp; Events - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "News &#038; Events",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 1,
+    "h2_tags": [
+      "Oil Baron&#8217;s Ball past photos"
+    ],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 440,
+    "content_length_bytes": 50324,
+    "response_time_ms": 540.2
+  },
+  "https://www.apibakersfield.com/news-events/fall-fun-shoot/": {
+    "status_code": 200,
+    "title": "Fall Fun Shoot - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Fall Fun Shoot",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 433,
+    "content_length_bytes": 50019,
+    "response_time_ms": 524.7
+  },
+  "https://www.apibakersfield.com/pay-online/board-christmas-dinner/": {
+    "status_code": 200,
+    "title": "Board Christmas Dinner - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Board Christmas Dinner",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [
+      "62"
+    ],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 1085,
+    "content_length_bytes": 87698,
+    "response_time_ms": 548.8
+  },
+  "https://www.apibakersfield.com/news-events/education-and-community-involvement/": {
+    "status_code": 200,
+    "title": "Education and Community Involvement - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Education and Community Involvement",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 454,
+    "content_length_bytes": 50496,
+    "response_time_ms": 533.5
+  },
+  "https://www.apibakersfield.com/news-events/oil-news-around-california/": {
+    "status_code": 200,
+    "title": "Oil News Around California - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 8,
+    "h1_tags": [
+      "Oil News Around California",
+      "",
+      "",
+      "U.S. EPA Releases Draft Class VI Permits to CRC\u2019s Carbon TerraVault for CO2 Injection and Storage in California",
+      "Kern-EDC-Energy-Independence-Flyer",
+      "",
+      "A GLOBAL ENERGY CRISIS, AN AMERICAN SOLUTION",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 2,
+    "h2_tags": [
+      "California lawsuit puts Big Oil on the hotseat for climate change",
+      "Kern EDC&#8217;s 2023 Advanced Manufacturing Industry Fact Sheet"
+    ],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 9,
+    "images_missing_alt": 6,
+    "approx_word_count": 1436,
+    "content_length_bytes": 64776,
+    "response_time_ms": 533.8
+  },
+  "https://www.apibakersfield.com/news-events/past-events/": {
+    "status_code": 200,
+    "title": "Past Events - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Past Events",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 8,
+    "h2_tags": [
+      "Adopt-A-Highway",
+      "Scholarship Night",
+      "API Dinner Meeting at 1933 &#8211; 16APR2024",
+      "40th Annual Oil Baron&#8217;s Ball (November 2nd, 2024)",
+      "Trivia Night"
+    ],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 646,
+    "content_length_bytes": 56397,
+    "response_time_ms": 550.2
+  },
+  "https://www.apibakersfield.com/scholarships/": {
+    "status_code": 200,
+    "title": "Scholarships - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 3,
+    "h1_tags": [
+      "Scholarships",
+      "2027 API SCHOLARSHIP APPLICATION:",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 421,
+    "content_length_bytes": 49492,
+    "response_time_ms": 530.3
+  },
+  "https://www.apibakersfield.com/about-us/": {
+    "status_code": 200,
+    "title": "About Us - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "About Us",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 616,
+    "content_length_bytes": 51154,
+    "response_time_ms": 513.6
+  },
+  "https://www.apibakersfield.com/about-us/chairmans-message/": {
+    "status_code": 200,
+    "title": "Chairman&#039;s Message - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Chairman&#8217;s Message",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 5,
+    "images_missing_alt": 2,
+    "approx_word_count": 622,
+    "content_length_bytes": 53528,
+    "response_time_ms": 529.1
+  },
+  "https://www.apibakersfield.com/about-us/membership/lorem-ipsum-dolor/": {
+    "status_code": 200,
+    "title": "Becoming a Member - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Becoming a Member",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 580,
+    "content_length_bytes": 51864,
+    "response_time_ms": 555.0
+  },
+  "https://www.apibakersfield.com/about-us/lifetime-api-members/": {
+    "status_code": 200,
+    "title": "Lifetime API Members - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 4,
+    "h1_tags": [
+      "Lifetime API Members",
+      "Bill Graham",
+      "",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 5,
+    "images_missing_alt": 2,
+    "approx_word_count": 912,
+    "content_length_bytes": 55042,
+    "response_time_ms": 548.3
+  },
+  "https://www.apibakersfield.com/about-us/membership/": {
+    "status_code": 200,
+    "title": "Membership - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Membership",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [
+      "2"
+    ],
+    "total_images": 5,
+    "images_missing_alt": 1,
+    "approx_word_count": 1498,
+    "content_length_bytes": 110011,
+    "response_time_ms": 816.0
+  },
+  "https://www.apibakersfield.com/about-us/board-of-directors/": {
+    "status_code": 200,
+    "title": "Board of Directors - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Board of Directors",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 1,
+    "h2_tags": [
+      "API - SAN JOAQUIN VALLEY CHAPTER EXECUTIVE BOARD"
+    ],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 5,
+    "images_missing_alt": 2,
+    "approx_word_count": 670,
+    "content_length_bytes": 69698,
+    "response_time_ms": 560.0
+  },
+  "https://www.apibakersfield.com/pay-online/": {
+    "status_code": 200,
+    "title": "Pay Online - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Pay Online",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 447,
+    "content_length_bytes": 49380,
+    "response_time_ms": 583.8
+  },
+  "https://www.apibakersfield.com/pay-online/membership-application/": {
+    "status_code": 200,
+    "title": "Membership Application - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Membership Application",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [
+      "2"
+    ],
+    "total_images": 5,
+    "images_missing_alt": 1,
+    "approx_word_count": 1473,
+    "content_length_bytes": 109587,
+    "response_time_ms": 804.9
+  },
+  "https://www.apibakersfield.com/pay-online/fall-fun-shoot/": {
+    "status_code": 200,
+    "title": "Fall Fun Shoot - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Fall Fun Shoot",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [
+      "5"
+    ],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 1901,
+    "content_length_bytes": 155370,
+    "response_time_ms": 803.6
+  },
+  "https://www.apibakersfield.com/pay-online/direct-scholarship-donations/": {
+    "status_code": 200,
+    "title": "Direct Scholarship Donations - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Direct Scholarship Donations",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [
+      "61"
+    ],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 1338,
+    "content_length_bytes": 99772,
+    "response_time_ms": 801.2
+  },
+  "https://www.apibakersfield.com/pay-online/sponsorship-payments/": {
+    "status_code": 200,
+    "title": "Sponsorship Payments - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Sponsorship Payments",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [
+      "4"
+    ],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 1304,
+    "content_length_bytes": 109604,
+    "response_time_ms": 807.4
+  },
+  "https://www.apibakersfield.com/sponsors/": {
+    "status_code": 200,
+    "title": "Sponsors - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Sponsors",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 5,
+    "h2_tags": [
+      "California Resources Corporation is our Silver Sponsor",
+      "g",
+      "Thank you to our corporate sponsors Chevron and Enterprise",
+      "g",
+      "API 2023\u00a0 Golf, Fall Fun Shoot, and Oil Baron&#8217;s Ball SPONSORS"
+    ],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 43,
+    "images_missing_alt": 39,
+    "approx_word_count": 455,
+    "content_length_bytes": 65083,
+    "response_time_ms": 677.5
+  },
+  "https://www.apibakersfield.com/resources/": {
+    "status_code": 200,
+    "title": "Resources - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Resources",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 5,
+    "h2_tags": [
+      "JOB BOARD (PROVIDERS LIST YOUR POSITIONS HERE)",
+      "JOB BOARD (SEEKERS LIST YOUR RESUME HERE)",
+      "AVAILABLE INTERNS (CANDIDATES LIST YOUR RESUMES AND AVAILABILITY HERE)",
+      "AVAILABLE INTERNSHIPS (COMPANIES LIST YOUR POSITIONS)",
+      "Other Useful Resources"
+    ],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 657,
+    "content_length_bytes": 54300,
+    "response_time_ms": 532.6
+  },
+  "https://www.apibakersfield.com/resources/job-board/": {
+    "status_code": 200,
+    "title": "Job Board - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Job Board",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 442,
+    "content_length_bytes": 50969,
+    "response_time_ms": 530.7
+  },
+  "https://www.apibakersfield.com/resources/job-board-seekers/": {
+    "status_code": 200,
+    "title": "Job Board (SEEKERS LIST YOUR RESUME HERE) - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Job Board (SEEKERS LIST YOUR RESUME HERE)",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 461,
+    "content_length_bytes": 50348,
+    "response_time_ms": 535.4
+  },
+  "https://www.apibakersfield.com/resources/available-interns/": {
+    "status_code": 200,
+    "title": "Available Interns (Candidates list your resumes and availability here) - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Available Interns (Candidates list your resumes and availability here)",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 468,
+    "content_length_bytes": 50490,
+    "response_time_ms": 524.9
+  },
+  "https://www.apibakersfield.com/resources/available-internships/": {
+    "status_code": 200,
+    "title": "Available Internships (Companies list your positions) - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Available Internships (Companies list your positions)",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 5,
+    "images_missing_alt": 2,
+    "approx_word_count": 501,
+    "content_length_bytes": 52380,
+    "response_time_ms": 522.1
+  },
+  "https://www.apibakersfield.com/newsletter/": {
+    "status_code": 200,
+    "title": "Newsletter - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Newsletter",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 765,
+    "content_length_bytes": 68783,
+    "response_time_ms": 813.4
+  },
+  "https://www.apibakersfield.com/contact-us/": {
+    "status_code": 200,
+    "title": "Contact Us - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Contact Us",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [
+      "1"
+    ],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 1126,
+    "content_length_bytes": 81038,
+    "response_time_ms": 555.1
+  },
+  "https://www.apibakersfield.com/news-events/adopt-a-highway-2/": {
+    "status_code": 200,
+    "title": "Adopt-A-Highway - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Adopt-A-Highway",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [
+      "37"
+    ],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 1003,
+    "content_length_bytes": 77711,
+    "response_time_ms": 572.0
+  },
+  "https://www.apibakersfield.com/news-events/calendar/": {
+    "status_code": 200,
+    "title": "Calendar - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Calendar",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 0,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 413,
+    "content_length_bytes": 49074,
+    "response_time_ms": 541.5
+  },
+  "https://www.apibakersfield.com/pay-online/2015-membership-application/": {
+    "status_code": 200,
+    "title": "Membership Application - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Membership Application",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [
+      "2"
+    ],
+    "total_images": 5,
+    "images_missing_alt": 1,
+    "approx_word_count": 1473,
+    "content_length_bytes": 109533,
+    "response_time_ms": 816.0
+  },
+  "https://www.apibakersfield.com/pay-online/api-monthly-dinner-meeting/": {
+    "status_code": 404,
+    "title": "Page not found - EnergyAPI - San Joaquin Valley Chapter",
+    "meta_description": "",
+    "has_og_title": true,
+    "viewport": "width=device-width, initial-scale=1.0",
+    "h1_count": 2,
+    "h1_tags": [
+      "Not Found",
+      "QUICK CONTACTS"
+    ],
+    "h2_count": 0,
+    "h2_tags": [],
+    "form_count": 1,
+    "gforms": [],
+    "total_images": 4,
+    "images_missing_alt": 1,
+    "approx_word_count": 421,
+    "content_length_bytes": 47774,
+    "response_time_ms": 518.6
+  }
+}

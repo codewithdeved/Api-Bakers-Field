@@ -1,0 +1,147 @@
+{
+  "home": {
+    "url": "https://www.apibakersfield.com/",
+    "status": 200,
+    "length": 51256
+  },
+  "news_events": {
+    "url": "https://www.apibakersfield.com/news-events/",
+    "status": 200,
+    "length": 50272
+  },
+  "fall_fun_shoot": {
+    "url": "https://www.apibakersfield.com/news-events/fall-fun-shoot/",
+    "status": 200,
+    "length": 50069
+  },
+  "board_christmas_dinner": {
+    "url": "https://www.apibakersfield.com/pay-online/board-christmas-dinner/",
+    "status": 200,
+    "length": 87707
+  },
+  "education_community": {
+    "url": "https://www.apibakersfield.com/news-events/education-and-community-involvement/",
+    "status": 200,
+    "length": 50452
+  },
+  "oil_news_california": {
+    "url": "https://www.apibakersfield.com/news-events/oil-news-around-california/",
+    "status": 200,
+    "length": 64722
+  },
+  "past_events": {
+    "url": "https://www.apibakersfield.com/news-events/past-events/",
+    "status": 200,
+    "length": 56414
+  },
+  "scholarships": {
+    "url": "https://www.apibakersfield.com/scholarships/",
+    "status": 200,
+    "length": 49473
+  },
+  "about_us": {
+    "url": "https://www.apibakersfield.com/about-us/",
+    "status": 200,
+    "length": 51228
+  },
+  "chairmans_message": {
+    "url": "https://www.apibakersfield.com/about-us/chairmans-message/",
+    "status": 200,
+    "length": 53536
+  },
+  "becoming_a_member": {
+    "url": "https://www.apibakersfield.com/about-us/membership/lorem-ipsum-dolor/",
+    "status": 200,
+    "length": 51853
+  },
+  "lifetime_members": {
+    "url": "https://www.apibakersfield.com/about-us/lifetime-api-members/",
+    "status": 200,
+    "length": 54927
+  },
+  "membership": {
+    "url": "https://www.apibakersfield.com/about-us/membership/",
+    "status": 200,
+    "length": 109964
+  },
+  "board_of_directors": {
+    "url": "https://www.apibakersfield.com/about-us/board-of-directors/",
+    "status": 200,
+    "length": 69690
+  },
+  "pay_online": {
+    "url": "https://www.apibakersfield.com/pay-online/",
+    "status": 200,
+    "length": 49356
+  },
+  "pay_membership": {
+    "url": "https://www.apibakersfield.com/pay-online/membership-application/",
+    "status": 200,
+    "length": 109568
+  },
+  "pay_fall_fun_shoot": {
+    "url": "https://www.apibakersfield.com/pay-online/fall-fun-shoot/",
+    "status": 200,
+    "length": 155291
+  },
+  "pay_scholarship_donations": {
+    "url": "https://www.apibakersfield.com/pay-online/direct-scholarship-donations/",
+    "status": 200,
+    "length": 99765
+  },
+  "pay_sponsorship": {
+    "url": "https://www.apibakersfield.com/pay-online/sponsorship-payments/",
+    "status": 200,
+    "length": 109666
+  },
+  "sponsors": {
+    "url": "https://www.apibakersfield.com/sponsors/",
+    "status": 200,
+    "length": 65019
+  },
+  "resources": {
+    "url": "https://www.apibakersfield.com/resources/",
+    "status": 200,
+    "length": 54306
+  },
+  "job_board": {
+    "url": "https://www.apibakersfield.com/resources/job-board/",
+    "status": 200,
+    "length": 50897
+  },
+  "job_board_seekers": {
+    "url": "https://www.apibakersfield.com/resources/job-board-seekers/",
+    "status": 200,
+    "length": 50304
+  },
+  "available_interns": {
+    "url": "https://www.apibakersfield.com/resources/available-interns/",
+    "status": 200,
+    "length": 50549
+  },
+  "available_internships": {
+    "url": "https://www.apibakersfield.com/resources/available-internships/",
+    "status": 200,
+    "length": 52325
+  },
+  "newsletter": {
+    "url": "https://www.apibakersfield.com/newsletter/",
+    "status": 200,
+    "length": 68767
+  },
+  "contact_us": {
+    "url": "https://www.apibakersfield.com/contact-us/",
+    "status": 200,
+    "length": 81085
+  },
+  "adopt_a_highway": {
+    "url": "https://www.apibakersfield.com/news-events/adopt-a-highway-2/",
+    "status": 200,
+    "length": 77699
+  },
+  "calendar": {
+    "url": "https://www.apibakersfield.com/news-events/calendar/",
+    "status": 200,
+    "length": 49066
+  }
+}
